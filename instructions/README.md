@@ -18,3 +18,6 @@ Este documento apresenta os padrões de commits geralmente utilizados na comunid
 ## Como Usar
 
 Ao fazer commits, utilize os tipos descritos acima como prefixos das mensagens de commit. Isso permite que todos os membros da equipe compreendam rapidamente a natureza das alterações no código.
+
+```plaintext
+[tipo]: [descricao]
